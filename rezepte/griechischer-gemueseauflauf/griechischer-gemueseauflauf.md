@@ -1,8 +1,10 @@
 # Griechischer Gemüseauflauf
 
-## Zutaten
-
 Dauer: ca 30 min + 1 std im Ofen
+
+![Auflauf](rezepte/griechischer-gemueseauflauf/griechischer-gemueseauflauf.jpg)
+
+## Zutaten
 
 ### Fürs Rohr
 
@@ -21,7 +23,7 @@ Dauer: ca 30 min + 1 std im Ofen
 - Zimt (gemahlen)
 - Salz
 
-### Zum würzen nach dem braten
+### Zum Würzen nach dem Braten
 
 - natives Olivenöl
 - Salz
@@ -49,7 +51,7 @@ Nach 20-30 Minuten kann die Marinade über das Gemüse gegossen und vorsichtig e
 Nach weiteren 20 Minuten nochmal umrühren und Fetawürfel verteilen.
 Nach nochmals 20 Minuten sollte alles gar sein und der Feta weich bis ein wenig goldig sein.
 
-Portionen am Teller anrichten und mit Olivenöl, Oregano und nach Bedarf Salz abschmecken.
+Portionen am Teller anrichten und mit Olivenöl, Oregano und Salz abschmecken.
 
 Guten Apetit!
 
