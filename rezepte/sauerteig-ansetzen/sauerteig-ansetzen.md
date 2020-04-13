@@ -71,7 +71,7 @@ Es kann sein, dass der Sauerteig noch nicht super hohe Triebkraft hat, das wird 
 Man kann auch die ersten Brotteige (nicht die eigentliche Sauerteigkultur!) mit Hefe zu mehr Triebkraft verhelfen.
 
 Als erstes Rezept habe ich folgendes gebacken:
-https://www.wurzelwerk.net/2019/01/23/sauerteigbrot-backen
+[https://www.wurzelwerk.net/2019/01/23/sauerteigbrot-backen](https://www.wurzelwerk.net/2019/01/23/sauerteigbrot-backen)
 Den Vorteig habe ich nicht extra angestzt, sondern einfach die ca. 400g aus dem Ansatz direkt verwendet ohne nochmal gehen zu lassen.
 Also in dem Rezept direkt bei Schritt 2 (morgens) anfangen.
 
@@ -86,10 +86,13 @@ Damit erhöht man die Wahrscheinlichkeit, dass sich keine falschen Bakterien ein
 ### Quellen & Links
 
 #### Sauerteigtipps
-https://kuechenchaotin.de/sauerteig-selber-machen/
-https://www.wurzelwerk.net/2019/01/09/sauerteig-selber-machen/
+- [https://kuechenchaotin.de/sauerteig-selber-machen/](https://kuechenchaotin.de/sauerteig-selber-machen/)
+- [https://www.wurzelwerk.net/2019/01/09/sauerteig-selber-machen/](https://www.wurzelwerk.net/2019/01/09/sauerteig-selber-machen/)
+
+#### Erstes Rezept
+[https://www.wurzelwerk.net/2019/01/23/sauerteigbrot-backen](https://www.wurzelwerk.net/2019/01/23/sauerteigbrot-backen)
 
 #### Über Brot Backen allgemein
-https://www.ploetzblog.de/
+[https://www.ploetzblog.de/](https://www.ploetzblog.de/)
 
 
