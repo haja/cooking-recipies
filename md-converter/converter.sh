@@ -4,6 +4,8 @@
 
 OUTFILE=alle.html
 cat template/pre.html.part > $OUTFILE
-markdown rezepte/*/*.md >> $OUTFILE
+for f in rezepte/*/*.md; do
+    markdown "$f" >> $OUTFILE
+done
 cat template/post.html.part >> $OUTFILE
 
