@@ -3,5 +3,6 @@
     <title>Harald's Rezepte</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="template/modest.css">
+    <link rel="stylesheet" href="template/custom.css">
 </head>
 <body>
